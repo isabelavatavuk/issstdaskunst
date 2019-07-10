@@ -1,0 +1,11 @@
+<!DOCTYPE HTML>
+  <head>
+    <title>Issstdaskunst?</title>
+    <style> 
+    body {background-color:DarkBlue;}
+    h1 {font-size: 20px;font-family: Lucida Console; color: gray;text-align:right}
+    </style>
+  </head>
+  <body>
+    <h1>Issst<br>das<br>Kunst?</h1>
+  </body>
